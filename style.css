@@ -1,0 +1,77 @@
+body{
+    background-image: url(background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 3%;
+}
+
+#second-background{
+    border: 1px solid; 
+    border-radius: 10px;
+    background: rgba(10, 10, 10, 0.5);
+   
+}
+
+img{ 
+    width: 20%; 
+    margin-top: 50px;
+ 
+}
+
+header{
+    color:#32CD32;
+    text-align: center;         
+}
+
+h1{
+    margin-top: 5px;
+}
+
+nav{
+    text-align: center;
+    background-color: #32CD32;
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.nominativo{
+    display: inline-block;
+    margin-bottom: 1px;
+}
+
+.posizione{
+    margin-left: 5%;
+    margin-right: 5%;
+    color: white;
+}
+
+section > p{
+    margin-top: 1px;
+}
+
+#orange{
+    border: 10px solid orange;
+    border-radius: 5px;
+    margin-right: 60%;
+    
+}
+
+#green{
+    border: 10px solid rgb(32, 214, 32);
+    border-radius: 5px;
+    margin-right: 30%;
+
+}
+
+#red{
+    border: 10px solid red;
+    border-radius: 5px;
+    margin-right: 80%;    
+}
+
+.last{
+    margin-bottom: 5%;
+}
